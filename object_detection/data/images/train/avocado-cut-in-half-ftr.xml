@@ -1,0 +1,26 @@
+<annotation>
+	<folder>avocado_2_output</folder>
+	<filename>avocado-cut-in-half-ftr.jpg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_2_output/avocado-cut-in-half-ftr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>almost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>150</ymin>
+			<xmax>356</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>avocado_2_output</folder>
+	<filename>three avocados.jpg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_2_output/three avocados.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ripe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>110</ymin>
+			<xmax>600</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>166</ymin>
+			<xmax>428</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unripe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>270</ymin>
+			<xmax>222</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>
